@@ -21,7 +21,7 @@ Desenvolvido para a disciplina Programação Orientada a Objetos 2 (UTFPR - Corn
 - Notificações automáticas (lembretes, reservas, bloqueios)  
 
 ### 📖 Para Bibliotecários
-- CRUD de livros e exemplares (código de barras/QR, localização, estado de conservação)  
+- CRUD de livros e exemplares 
 - Gestão de empréstimos: retirada, devolução, renovação e multas  
 - Gestão de reservas e fila de espera  
 - Administração de licenças digitais (limites simultâneos de acesso)  
@@ -59,7 +59,7 @@ O sistema segue o paradigma **orientado a objetos** com classes bem definidas pa
 
 - **Linguagem**: Java (plano de implementação)  
 - **Modelagem UML**: Astah UML  
-- **Controle de versão**: Git + GitHub  
+- **Controle de versão**: GitHub  
 - **Interface gráfica**: Swing/JavaFX *(previsto para prototipagem)*  
 - **Banco de dados**: Em definição (possível uso de PostgreSQL ou MySQL)  
 
@@ -77,7 +77,7 @@ Próximas etapas:
 
 ## 👥 Autores
 
-- **Júlia Pivello Vila Real** – Engenharia de Software, UTFPR** 
-- **Mariana Gasparotto Palácios** – Engenharia de Software, UTFPR**
-- **Mateus de Jesus Gonçalves** – Engenharia de Software, UTFPR**
+- **Júlia Pivello Vila Real** – Engenharia de Software, UTFPR
+- **Mariana Gasparotto Palácios** – Engenharia de Software, UTFPR
+- **Mateus de Jesus Gonçalves** – Engenharia de Software, UTFPR
 
